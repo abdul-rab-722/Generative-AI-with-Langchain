@@ -32,3 +32,5 @@ streamlit
 langchain_community
 PyPDFLoader
 langchain_experimental
+tiktoken
+chromadb
