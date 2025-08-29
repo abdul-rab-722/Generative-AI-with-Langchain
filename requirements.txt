@@ -34,3 +34,7 @@ PyPDFLoader
 langchain_experimental
 tiktoken
 chromadb
+faiss_cpu
+tiktoken
+openai
+wikipedia
