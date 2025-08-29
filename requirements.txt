@@ -40,3 +40,7 @@ wikipedia
 
 # youtube transcriptor
 youtube-transcript-api
+
+# RAG tools
+pydantic
+duckduckgo-search
