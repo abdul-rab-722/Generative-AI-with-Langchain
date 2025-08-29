@@ -28,6 +28,7 @@ scikit-learn
 # streamlit application
 streamlit
 
-# documents loader
+# Retriever augmentation generation utilities
 langchain_community
 PyPDFLoader
+langchain_experimental
