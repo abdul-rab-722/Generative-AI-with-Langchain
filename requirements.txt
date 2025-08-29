@@ -36,5 +36,7 @@ tiktoken
 chromadb
 faiss_cpu
 tiktoken
-openai
 wikipedia
+
+# youtube transcriptor
+youtube-transcript-api
